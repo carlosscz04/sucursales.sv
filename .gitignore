@@ -1,0 +1,15 @@
+node_modules
+dist
+.env
+.DS_Store
+backend/data/turnos-caja.json
+backend/data/turnos-caja.json.tmp
+backend/data/usuarios.json
+backend/data/usuarios.json.tmp
+backend/data/empleados.json
+backend/data/empleados.json.tmp
+backend/data/sucursales.json
+backend/data/sucursales.json.tmp
+backend/data/usuarios-sucursales.json
+backend/data/usuarios-sucursales.json.tmp
+backend/data/sucursales/
